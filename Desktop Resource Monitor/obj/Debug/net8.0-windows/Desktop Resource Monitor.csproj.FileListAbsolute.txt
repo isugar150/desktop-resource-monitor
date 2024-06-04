@@ -1,0 +1,26 @@
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\Desktop Resource Monitor.exe
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\Desktop Resource Monitor.deps.json
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\Desktop Resource Monitor.runtimeconfig.json
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\Desktop Resource Monitor.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\Desktop Resource Monitor.pdb
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Core.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop Resource Monitor.csproj.AssemblyReference.cache
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop_Resource_Monitor.Form1.resources
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop Resource Monitor.csproj.GenerateResource.cache
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop Resource Monitor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop Resource Monitor.AssemblyInfoInputs.cache
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop Resource Monitor.AssemblyInfo.cs
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop Resource Monitor.csproj.CoreCompileInputs.cache
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop .CDB55AF8.Up2Date
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop Resource Monitor.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\refint\Desktop Resource Monitor.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop Resource Monitor.pdb
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\Desktop Resource Monitor.genruntimeconfig.cache
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\obj\Debug\net8.0-windows\ref\Desktop Resource Monitor.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\pok_m\source\repos\Desktop Resource Monitor\Desktop Resource Monitor\bin\Debug\net8.0-windows\CsvHelper.dll
